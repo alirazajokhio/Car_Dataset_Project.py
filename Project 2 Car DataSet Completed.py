@@ -45,7 +45,7 @@ car[car['Weight'] > 4000]
 # In[51]:
 car[~(car['Weight'] > 4000)]
 
-# ## Q2. Increase all the values of "MPG_City by 3
+# ## Q5. Increase all the values of "MPG_City by 3
 # In[52]:
 
 car.head()
